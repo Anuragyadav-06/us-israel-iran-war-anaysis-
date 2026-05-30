@@ -30,7 +30,7 @@ Python | Pandas | yfinance | Matplotlib | Seaborn
 <img width="1023" height="447" alt="image" src="https://github.com/user-attachments/assets/6412a9cf-54fe-4743-97ec-2a67a91249fb" />
 ##finding 3
 <img width="1041" height="813" alt="image" src="https://github.com/user-attachments/assets/3e39dc78-5bcd-4d1f-95e4-d7bbb1059b9c" />
-
+##fiding 5
 <img width="656" height="223" alt="image" src="https://github.com/user-attachments/assets/46facb8b-469c-4997-a239-ef48eb0cd796" />
 ##finding 5
 <img width="1052" height="536" alt="image" src="https://github.com/user-attachments/assets/6c8dfd47-bba2-4f9b-9556-eb971703a74c" />
