@@ -1,7 +1,7 @@
 # us-israel-iran-war-anaysis-
 # Investor Behavior During the 2026 US-Israel-Iran War 📊
 ## 📊 View Full Notebook With All Charts
-[Click here to view complete analysis](https://nbviewer.org/github/Anuragyadav-06/us-israel-iran-war-anaysis-/blob/main/notebook.ipynb)
+[Click here to view complete analysis]((https://nbviewer.org/github/Anuragyadav-06/us-israel-iran-war-anaysis-/blob/main/Iran_isarelwar%20%284%29.ipynb)]
 
 ## What This Project Analyzes
 How Gold, Oil, S&P 500, Defense Stocks and Fear Index 
